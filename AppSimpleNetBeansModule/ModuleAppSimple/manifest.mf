@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+AutoUpdate-Show-In-Client: true
+OpenIDE-Module: org.netbeans.demo
+OpenIDE-Module-Install: org/netbeans/demo/Installer.class
+OpenIDE-Module-Localizing-Bundle: org/netbeans/demo/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+
