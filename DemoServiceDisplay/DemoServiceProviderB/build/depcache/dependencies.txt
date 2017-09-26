@@ -1,0 +1,4 @@
+||:org.demo.serviceProviderB.ServiceProvider1
+java.lang.Object
+org.demo.service.ServiceInterface
+org.demo.serviceProviderB.ServiceProvider1

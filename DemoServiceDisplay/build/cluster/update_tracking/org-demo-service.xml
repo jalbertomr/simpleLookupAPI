@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.demo.service">
+    <module_version install_time="1497133804926" last="true" origin="installer" specification_version="1.0">
+        <file crc="2979526277" name="config/Modules/org-demo-service.xml"/>
+        <file crc="853824979" name="modules/org-demo-service.jar"/>
+    </module_version>
+</module>

@@ -1,0 +1,10 @@
+||:org.demo.consumer.Installer
+java.lang.StringBuilder
+org.openide.util.Lookup
+java.util.Collection
+org.openide.modules.ModuleInstall
+java.io.PrintStream
+java.lang.System
+java.util.Iterator
+org.demo.consumer.Installer
+org.demo.service.ServiceInterface
