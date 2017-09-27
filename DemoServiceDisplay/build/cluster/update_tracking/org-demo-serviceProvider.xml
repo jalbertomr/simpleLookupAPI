@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.demo.serviceProvider">
-    <module_version install_time="1497133805283" last="true" origin="installer" specification_version="1.0">
+    <module_version install_time="1506393064405" last="true" origin="installer" specification_version="1.0">
         <file crc="3340000652" name="config/Modules/org-demo-serviceProvider.xml"/>
         <file crc="4102594499" name="modules/org-demo-serviceProvider.jar"/>
     </module_version>

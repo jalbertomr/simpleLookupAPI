@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.demo.demomodule">
+    <module_version install_time="1506552854815" last="true" origin="installer" specification_version="1.0">
+        <file crc="2528570210" name="config/Modules/org-netbeans-demo-demomodule.xml"/>
+        <file crc="462553444" name="modules/org-netbeans-demo-demomodule.jar"/>
+    </module_version>
+</module>
